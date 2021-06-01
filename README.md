@@ -6,22 +6,16 @@
 Get to know more about me at :
 ### [adithyavj.in](http://www.adithyavj.in)
 
-## 🛠️ Skills
-
-### Languages
-
-![dotnet](https://img.shields.io/badge/dotnet-3776AB?style=for-the-badge&logo=dotnet&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ## 📈 Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true" alt="Adithya Vijay's GitHub stats">
-</div>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en" alt="Adithya Vijay's GitHub stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="adithyavj" />
+</p>
 
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
-</div>
+<p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
+</p>
 
 ## 🔗 Links
 
@@ -30,3 +24,4 @@ Get to know more about me at :
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/adithyavj/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/adithyavj/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithyavj/)
+[![twitter](https://img.shields.io/twitter/follow/adithyavj?logo=twitter&style=for-the-badge)](https://twitter.com/adithyavj/)
