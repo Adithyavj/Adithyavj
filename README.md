@@ -2,7 +2,7 @@
 ## 🚀 This is a bit About Me
 
 🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer** (specializing in **BackEnd Development**)
-👨‍💻 I am really enthusiastic about learning new technology. Currently working on ERP Software Development.
+👨‍💻 I am really enthusiastic about learning new technology. Currently giving Angular a try.
 Get to know more about me at :
 ### [adithyavj.in](http://www.adithyavj.in)
 
