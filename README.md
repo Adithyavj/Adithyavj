@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 ## 🚀 This is a bit About Me
 
-🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer** (specializing in **BackEnd Development**)
+🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer**
 👨‍💻 I am really enthusiastic about learning new technology. Currently giving Angular a try.
 Get to know more about me at :
 ### [adithyavj.in](http://www.adithyavj.in)
