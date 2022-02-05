@@ -9,14 +9,15 @@ Get to know more about me at :
 ## 📈 Stats
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en" alt="Adithya Vijay's GitHub stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en&count_private=true" alt="Adithya Vijay's GitHub stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="adithyavj" />
 </p>
-
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavj" alt="top-languages"/>
+</p>
 <p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
 </p>
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://adithyavj.in)
