@@ -1,28 +1,39 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
 ## 🚀 This is a bit About Me
 
-🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer**
-👨‍💻 I am really enthusiastic about learning new technology. Currently giving Angular a try.
-Get to know more about me at :
-### [adithyavj.in](http://www.adithyavj.in)
+🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer** <br />
+👨‍💻 I am really enthusiastic about learning new technology. Giving all new things a try.
 
-## 📈 Stats
+[![Website](https://img.shields.io/website?label=adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fadithyavj.in)](https://adithyavj.in)
+## 🔗 Connect with me
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en&count_private=true" alt="Adithya Vijay's GitHub stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="adithyavj" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavj" alt="top-languages"/>
-</p>
-<p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
-</p>
-## 🔗 Links
+[<img align="left" alt="adithyavj.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Adithya Vijay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Adithya Vijay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adithya Vijay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://adithyavj.in)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adithyavijayk/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/adithyavj/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/adithyavj/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adithyavj/)
-[![twitter](https://img.shields.io/twitter/follow/adithyavj?logo=twitter&style=for-the-badge)](https://twitter.com/adithyavj/)
+<br />
+<br />
+
+<details>
+    <summary>:zap: GitHub Stats </summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en&count_private=true" alt="Adithya Vijay's GitHub Stats">
+</details>
+<details>
+    <summary>:zap: Streaks </summary>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="Adithya's coding streak" />
+</details>
+<details>
+    <summary>:zap: Top Languages </summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavj" alt="Adithya's Top languages"/>
+</details>
+<details>
+    <summary>:zap: Visitors </summary>
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
+</details>
+
+[website]: http://adithyavj.in
+[linkedin]: https://www.linkedin.com/in/adithyavijayk
+[twitter]: https://twitter.com/adithyavj
+[instagram]: https://www.instagram.com/adithyavj
