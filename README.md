@@ -18,20 +18,17 @@
 
 <details>
     <summary>:zap: GitHub Stats </summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en&count_private=true" alt="Adithya Vijay's GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyavj&show_icons=true&hide_border=true&locale=en&count_private=true" alt="Adithya Vijay's GitHub Stats">
 </details>
 <details>
     <summary>:zap: Streaks </summary>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="Adithya's coding streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavj&" alt="Adithya's coding streak" />
 </details>
 <details>
     <summary>:zap: Top Languages </summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavj" alt="Adithya's Top languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavj" alt="Adithya's Top languages"/>
 </details>
-<details>
-    <summary>:zap: Visitors </summary>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
-</details>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
 
 [website]: http://adithyavj.in
 [linkedin]: https://www.linkedin.com/in/adithyavijayk
