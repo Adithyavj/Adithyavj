@@ -12,6 +12,7 @@
 [<img align="left" alt="Adithya Vijay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Adithya Vijay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Adithya Vijay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Adithya Vijay | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 <br />
@@ -34,3 +35,4 @@
 [linkedin]: https://www.linkedin.com/in/adithyavijayk
 [twitter]: https://twitter.com/adithyavj
 [instagram]: https://www.instagram.com/adithyavj
+[hackerrank]: https://www.hackerrank.com/adithyavj
