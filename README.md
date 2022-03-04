@@ -2,13 +2,14 @@
 
 ## 🚀 This is a bit About Me
 
-🎓 I am Adithya Vijay K, a **Full Stack DotNet Developer** <br />
+🎓 I am Adithya Vijay K, a **Full Stack Developer** <br />
 👨‍💻 I am really enthusiastic about learning new technology. Giving all new things a try.
 
 [![Website](https://img.shields.io/website?label=adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fadithyavj.in)](https://adithyavj.in)
 ## 🔗 Connect with me
 
 [<img align="left" alt="adithyavj.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blog.adithyavj.in | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />[blog]
 [<img align="left" alt="Adithya Vijay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Adithya Vijay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Adithya Vijay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -31,7 +32,8 @@
 </details>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=adithyavj.adithyavj" alt="visitors">
 
-[website]: http://adithyavj.in
+[website]: https://adithyavj.in
+[blog]: https://blog.adithyavj.in
 [linkedin]: https://www.linkedin.com/in/adithyavijayk
 [twitter]: https://twitter.com/adithyavj
 [instagram]: https://www.instagram.com/adithyavj
