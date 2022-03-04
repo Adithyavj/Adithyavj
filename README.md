@@ -6,6 +6,7 @@
 👨‍💻 I am really enthusiastic about learning new technology. Giving all new things a try.
 
 [![Website](https://img.shields.io/website?label=adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fadithyavj.in)](https://adithyavj.in)
+[![Blog](https://img.shields.io/website?label=blog.adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fblog.adithyavj.in)](https://blog.adithyavj.in)
 ## 🔗 Connect with me
 
 [<img align="left" alt="adithyavj.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
