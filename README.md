@@ -2,8 +2,8 @@
 
 ## 🚀 This is a bit About Me
 
-🎓 I am Adithya Vijay K, a **Full Stack Developer** <br />
-👨‍💻 I am really enthusiastic about learning new technology. Giving all new things a try.
+🎓 I am Adithya Vijay K, a **Software Engineer** <br />
+👨‍💻 I am really enthusiastic about learning new technology.
 
 [![Website](https://img.shields.io/website?label=adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fadithyavj.in)](https://adithyavj.in)
 [![Blog](https://img.shields.io/website?label=blog.adithyavj.in&style=for-the-badge&url=https%3A%2F%2Fblog.adithyavj.in)](https://blog.adithyavj.in)
